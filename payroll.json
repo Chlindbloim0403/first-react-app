@@ -1,0 +1,70 @@
+{
+  "employees": [
+    {
+      "id": 0,
+      "name": "Jazel",
+      "title": "Director of Customer Development"
+    },
+    {
+      "id": 1,
+      "name": "Deontae",
+      "title": "Manager of Casino Operations"
+    }
+  ],
+  "paychecks": [
+    {
+      "id": 0,
+      "employeeId": 0,
+      "amount": 10000000,
+      "date": "1/13/26"
+    },
+    {
+      "employeeId": 1,
+      "amount": 191420,
+      "date": "1/13/28",
+      "id": 1
+    },
+    {
+      "employeeId": null,
+      "amount": 14200,
+      "date": "1/20/26",
+      "id": 2
+    },
+    {
+      "employeeId": 1,
+      "amount": 999,
+      "date": "1/13/26",
+      "id": 3
+    },
+    {
+      "employeeId": 0,
+      "amount": 518,
+      "date": "1/13/26",
+      "id": 4
+    },
+    {
+      "employeeId": 0,
+      "amount": 75,
+      "date": "1/13/26",
+      "id": 5
+    },
+    {
+      "employeeId": 1,
+      "amount": 19400,
+      "date": "1/16/26",
+      "id": 6
+    },
+    {
+      "employeeId": 0,
+      "amount": 19500,
+      "date": "04/03/26",
+      "id": 7
+    },
+    {
+      "employeeId": 1,
+      "amount": 9999,
+      "date": "1/16/26",
+      "id": 8
+    }
+  ]
+}
